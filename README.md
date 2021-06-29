@@ -56,7 +56,7 @@ link to web app : comming soon
 
 if you want to learn more about the project the please read the detailed blog i have written on medium 
 
-link to the blog : commimg soon
+link to the blog : https://medium.com/@bhaveshnaidu999/classifying-type-of-sexual-harassment-with-personal-stories-2994ca7b3ee1
 
 ### connect with me on
 [![LinkedIN Connect](https://img.shields.io/badge/Linkedin-connect-blue)](https://www.linkedin.com/in/bhavesh-naidu-23bb52199?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B4EZqZ2Q%2FQd2QiO%2BZEhU68A%3D%3D)
